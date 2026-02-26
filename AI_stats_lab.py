@@ -14,7 +14,6 @@ from sklearn.metrics import (
     confusion_matrix
 )
 
-
 # =========================================================
 # QUESTION 1 – Linear Regression Pipeline (Diabetes)
 # =========================================================
